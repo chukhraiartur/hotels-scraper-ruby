@@ -1,1 +1,3 @@
-# hotels-scraper-ruby
+# Hotels Scraper Ruby
+
+Scrape Zillow

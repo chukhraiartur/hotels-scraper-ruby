@@ -1,3 +1,3 @@
 # Hotels Scraper Ruby
 
-Scrape Zillow
+This module allows you to extract data from the Zillow website.
